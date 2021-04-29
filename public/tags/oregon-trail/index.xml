@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oregon Trail on News</title>
+    <link>http://example.org/tags/oregon-trail/</link>
+    <description>Recent content in Oregon Trail on News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/oregon-trail/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stand Up Yumi Chung by Silvia</title>
+      <link>http://example.org/posts/stand-up-yumi-chung/</link>
+      <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/stand-up-yumi-chung/</guid>
+      <description>We picked a new book a few weeks ago. It is called ‘Stand up, Yumi Chung!’ It is about a girl named Yumi. She has a mother, father, and a sister. She wants to pursue a comedy career, but her sister is the only one that supports her inside of her family.</description>
+    </item>
+    
+  </channel>
+</rss>

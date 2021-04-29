@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Book Suggestions on News</title>
+    <link>http://example.org/tags/book-suggestions/</link>
+    <description>Recent content in Book Suggestions on News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/book-suggestions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book Suggestions by Berenice Lui</title>
+      <link>http://example.org/posts/book-suggestions-by-berenice-lui/</link>
+      <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/book-suggestions-by-berenice-lui/</guid>
+      <description>On April 9, I put a question in the chat asking what book suggestions you guys have. I will be going over 5 books suggested by order of the time it was posted.
+ Yabin suggested the series Steve the Noob! According to google, Steve the Noob is a 46 book nonofficial Minecraft series. The author is Steve, no full name is given. Anushka said the series Boxcar Children! The Boxcar Children series has over 166 books and comes out with more every year.</description>
+    </item>
+    
+  </channel>
+</rss>

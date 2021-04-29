@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on News</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apirl 9th edition</title>
+      <link>http://example.org/tags/apirl-9th-edition/</link>
+      <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/apirl-9th-edition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Book Suggestions</title>
+      <link>http://example.org/tags/book-suggestions/</link>
+      <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/book-suggestions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Math</title>
+      <link>http://example.org/tags/math/</link>
+      <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/math/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oregon Trail</title>
+      <link>http://example.org/tags/oregon-trail/</link>
+      <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/oregon-trail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PTA Updates</title>
+      <link>http://example.org/tags/pta-updates/</link>
+      <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/pta-updates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shoutouts</title>
+      <link>http://example.org/tags/shoutouts/</link>
+      <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/shoutouts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

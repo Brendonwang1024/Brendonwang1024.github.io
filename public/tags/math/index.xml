@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Math on News</title>
+    <link>http://example.org/tags/math/</link>
+    <description>Recent content in Math on News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/math/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Math by Ira Tiwary</title>
+      <link>http://example.org/posts/math-by-ira-tiwary/</link>
+      <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/math-by-ira-tiwary/</guid>
+      <description>As you know, we’re in our 6th unit of math. Recently, we have studied parentheses in equations, unneeded information, and two step problems. For a review, try this problem! Jackie, Jake, James, Jacob and Jane all saved specific amounts of money. Jane had $24. Jackie had $5.78 more than Jake. Jake had 2 times as much as James. James had $2.17 less than Jacob. Jacob had $18.39. How much money did Jackie have?</description>
+    </item>
+    
+  </channel>
+</rss>
